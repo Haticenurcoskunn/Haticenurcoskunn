@@ -1,16 +1,22 @@
-### Hi there 👋
+### Hi there, I'm Hatice Nur 👋
 
-<!--
-**Haticenurcoskunn/Haticenurcoskunn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+ ##About me:
+I'm Flutter developer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 I’m currently representative writer on the [Mobiler.dev](https://www.mobiler.dev/)
+- ✨ I'm also a [Google Developer Groups Kayseri](https://gdg.community.dev/gdg-kayseri/)assistant organizer
+- 💫 I'm a member of the [Developer Students Club ERÜ](https://gdsc.community.dev/erciyes-university/)core team.
+
+![](https://flutterindia.dev/flappy-dash.gif)
+
+
+ ##Connect wih me
+[![Medium Badge](https://img.shields.io/badge/-Medium-757575?style=flat-quare&labelColor=757575&logo=Medium&logoColor=white&link=link)](https://medium.com/@haticenurcoskun00) 
+[![Linkedin Badge](https://kabecology.com/wp-content/uploads/2020/08/LI.png)](https://www.linkedin.com/in/hatice-nur-co%C5%9Fkun-6b59411ab/)
+[![Mobiler.dev Badge](https://media.kommunity.com/communities/mobilerdev/19025/Screen-Shot-2020-02-10-at-17.14.18.png)](https://www.mobiler.dev/profile/haticenurcoskun00/blog-posts)
+[![Mobiler.dev Badge](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/292px-Twitter-logo.svg.png)](https://twitter.com/HaticenurCskun)
+
+
+
+
