@@ -5,11 +5,11 @@
 I'm Flutter developer.
 
 > - 📫 I’m currently representative writer on the [Mobiler.dev](https://www.mobiler.dev/).
-> - ✨ I'm also a [Google Developer Groups Kayseri](https://gdg.community.dev/gdg-kayseri/) assistant organizer.
+> - ✨ I'm a [Google Developer Groups Kayseri](https://gdg.community.dev/gdg-kayseri/) assistant organizer.
 > - 💫 I'm a member of the [Developer Students Club ERÜ](https://gdsc.community.dev/erciyes-university/) core team.
 
 ***
-# Languages and tools
+##Languages and tools
 <p align="start">
 <a href=""><img align="" src="https://user-images.githubusercontent.com/70744158/155850330-9da97a61-2a54-40d8-9044-7049ed4ad794.png" alt="Hatice Nur Coşkun | Medium" width="30px"/></a>  
 <a href=""><img align="" src="https://user-images.githubusercontent.com/70744158/155850567-c72904c5-d8a3-4762-89b8-50f4757d6313.png" alt="Hatice Nur Coşkun | Medium" width="30px"/></a>  
@@ -20,7 +20,7 @@ I'm Flutter developer.
 
 
 
-# Contact with me
+##Contact with me
 
 <a href="https://www.linkedin.com/in/hatice-nur-co%C5%9Fkun-6b59411ab/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Hatice Nur Coşkun | LinkedIn" width="30px"/></a>
 <a href="https://www.instagram.com/haticenur.coskunn/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Hatice Nur Coşkun | Instagram" width="30px"/></a>
