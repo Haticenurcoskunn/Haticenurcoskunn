@@ -1,7 +1,7 @@
 ### Hi there, I'm Hatice Nur 👋
 
                                                            
-## About me:
+## About me
 I'm Flutter developer.
 
 > - 📫 I’m currently representative writer on the [Mobiler.dev](https://www.mobiler.dev/).
@@ -11,7 +11,7 @@ I'm Flutter developer.
 
                                          
                                                            
-## Connect with me
+## Contact with me
 
 
 <a href="https://www.linkedin.com/in/hatice-nur-co%C5%9Fkun-6b59411ab/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Hatice Nur Coşkun | LinkedIn" width="40px"/></a>
