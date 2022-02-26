@@ -7,7 +7,7 @@ I'm Flutter developer.
 > - 📫 I’m currently representative writer on the [Mobiler.dev](https://www.mobiler.dev/) 
 > - ✨ I'm also a [Google Developer Groups Kayseri](https://gdg.community.dev/gdg-kayseri/) assistant organizer 
 > - 💫 I'm a member of the [Developer Students Club ERÜ](https://gdsc.community.dev/erciyes-university/) core team.
-***
+
 
                                          
                                                            
