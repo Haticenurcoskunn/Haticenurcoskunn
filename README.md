@@ -4,10 +4,9 @@
 ## About me
 I'm Flutter developer.
 
-> - 📫 I am currently representative writer on the [Mobiler.dev](https://www.mobiler.dev/).
+
 > - ✨ I am an assistant organizer at [Google Developer Groups Kayseri](https://gdg.community.dev/gdg-kayseri/) 
 > - 💫 I'm a member of the [Developer Students Club ERÜ](https://gdsc.community.dev/erciyes-university/) core team.
-> - 🚀 I'm working as Flutter Developer at [Omnicourse](https://omnicourse.io/)
 
 
 ## Languages and tools
