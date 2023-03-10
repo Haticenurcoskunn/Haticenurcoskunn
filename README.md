@@ -5,7 +5,7 @@
 I'm Flutter developer.
 
 
-> - ✨ I'm a Flutter Developer and currently learning swift. I'm also interested in Project Management and UI/UX Design fields.
+✨ I'm a Flutter Developer and currently learning swift. I'm also interested in Project Management and UI/UX Design fields.
 
 
 ## Languages and tools
