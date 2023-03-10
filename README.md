@@ -5,8 +5,7 @@
 I'm Flutter developer.
 
 
-> - ✨ I am an assistant organizer at [Google Developer Groups Kayseri](https://gdg.community.dev/gdg-kayseri/) 
-> - 💫 I'm a member of the [Developer Students Club ERÜ](https://gdsc.community.dev/erciyes-university/) core team.
+> - ✨ I'm a Flutter Developer and currently learning swift. I'm also interested in Project management and UI/UX Design fields.
 
 
 ## Languages and tools
