@@ -5,7 +5,7 @@
 I'm Flutter developer.
 
 
-> - ✨ I'm a Flutter Developer and currently learning swift. I'm also interested in Project management and UI/UX Design fields.
+> - ✨ I'm a Flutter Developer and currently learning swift. I'm also interested in Project Management and UI/UX Design fields.
 
 
 ## Languages and tools
@@ -14,7 +14,9 @@ I'm Flutter developer.
 <a href=""><img align="" src="https://user-images.githubusercontent.com/70744158/155850567-c72904c5-d8a3-4762-89b8-50f4757d6313.png" alt="Hatice Nur Coşkun | Medium" width="30px"/></a>  
 <a href=""><img align="" src="https://cdn.iconscout.com/icon/free/png-128/c-58-1175247.png" alt="Hatice Nur Coşkun | Medium" width="30px"/></a>  
 <a href=""><img align="" src="https://cdn.iconscout.com/icon/free/png-128/flutter-2038877-1720090.png" alt="Hatice Nur Coşkun | Medium" width="30px"/></a>  
-<a href=""><img align="" src="https://img.icons8.com/color/2x/dart.png" alt="Hatice Nur Coşkun | Medium" width="30px"/></a>  
+<a href=""><img align="" src="https://img.icons8.com/color/2x/dart.png" alt="Hatice Nur Coşkun | Medium" width="30px"/></a> 
+ <a href=""><img align="" src="https://www.linkpicture.com/q/swift_2.png" alt="Hatice Nur Coşkun | Medium" width="30px"/></a> 
+
 </p>
 
 
