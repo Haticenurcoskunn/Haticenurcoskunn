@@ -13,7 +13,7 @@
 <a href=""><img align="" src="https://cdn.iconscout.com/icon/free/png-128/c-58-1175247.png" alt="Hatice Nur Coşkun | Medium" width="30px"/></a>  
 <a href=""><img align="" src="https://cdn.iconscout.com/icon/free/png-128/flutter-2038877-1720090.png" alt="Hatice Nur Coşkun | Medium" width="30px"/></a>  
 <a href=""><img align="" src="https://img.icons8.com/color/2x/dart.png" alt="Hatice Nur Coşkun | Medium" width="30px"/></a> 
-<a href=""><img align="" src="https://www.linkpicture.com/q/swift_2.png" alt="Hatice Nur Coşkun | Medium" width="30px"/></a> 
+<a href=""><img align="" src="https://i.hizliresim.com/nna3swq.png" alt="Hatice Nur Coşkun | Medium" width="30px"/></a> 
 <a href=""><img align="" src="https://i.hizliresim.com/3cw6j22.png" alt="Hatice Nur Coşkun | Medium" width="30px"/></a> 
   
 
