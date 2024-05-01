@@ -3,7 +3,7 @@
                                                            
 ## About me
 
-✨ I'm a Flutter Developer and currently learning swift. I'm also interested in Product Management and UI/UX Design fields.
+✨I am a 4th year student at Erciyes University. I'm a Flutter Developer and currently learning swift. I'm also interested in Product Management and UI/UX Design fields.
 
 
 ## Languages and tools
