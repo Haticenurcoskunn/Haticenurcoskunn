@@ -1,8 +1,5 @@
 ### Hi there, I'm Hatice Nur 👋
 
-                                                           
-## About me
-
 
 
 ## Languages and tools
